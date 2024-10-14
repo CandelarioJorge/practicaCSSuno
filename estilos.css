@@ -1,0 +1,89 @@
+.botones{
+    background: green;
+    width: 80px;
+    height: 40px;
+    margin: 4px;
+    display: inline-block;
+    float: right;
+}
+
+.texto{
+    background: red;
+    width: 490px;
+    height: 210px;
+    position: relative;
+    top: -430px;
+    left: 220px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.ligas{
+    background: green;
+    width: 180px;
+    height: 40px;
+    margin: 4px;
+    position: relative;
+    left: 350px;
+    top: -120px;
+}
+
+#central{
+    background: grey;
+    width: 800px;
+    height: 850px;
+}
+
+#logo{
+    background: pink;
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+    display: inline-block;
+}
+
+#superior{
+    background: blue;
+    width: 750px;
+    height: 100px;
+    position: relative;
+    top: 10px;
+    left: 25px;
+}
+
+#centro{
+    background: lightblue;
+    width: 750px;
+    height: 500px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+#imagen{
+    background: orange;
+    width: 200px;
+    height: 450px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+#fondo{
+    background: lightgreen;
+    width: 750px;
+    height: 200px;
+    position: relative;
+    top: 35px;
+    left: 25px;
+}
+
+#escudo{
+    background: cyan;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 25px;
+    left: 175px;
+}
+
